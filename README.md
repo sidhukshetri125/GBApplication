@@ -14,7 +14,12 @@ Required Softwares on your system : Technologies:SpringBoot,SpringSecurity,Sprin
 
 5.if you are using Eclipse,STS then import the project and run as Spring Boot App
 
-6.then hit the url http://localhost:8080/login page 7. 1.Admin user name :advait@gmail.com ,password : advait2020, 2.Guest User Name: sidkshetri@gmail.com and password sidhu2020
+
+6.then hit the url http://localhost:8080/login page 
+
+
+7. 1.Admin user name :advait@gmail.com ,password : advait2020, 2.Guest User Name: sidkshetri@gmail.com and password sidhu2020
+
 
 Mysql Database: Table Names : user , role , users_roles, feedback
 
