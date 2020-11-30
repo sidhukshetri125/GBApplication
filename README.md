@@ -4,7 +4,7 @@ The below software/plugins must involve in your system to execute this GuestBook
 
 Required Softwares on your system : Technologies:SpringBoot,SpringSecurity,Spring Data JPA,Spring Web,Bootstrap,Thymeleaf,MySQL,Maven,SMTP
 
-1.To start the application please clone this git url : git clone 
+1.To start the application please clone this git url : git clone https://github.com/sidhukshetri125/GBApplication.git
 
 2.Please add your mysql user name and password in application.properties file
 
@@ -19,6 +19,8 @@ Required Softwares on your system : Technologies:SpringBoot,SpringSecurity,Sprin
 
 
 7. 1.Admin user name :advait@gmail.com ,password : advait2020, 2.Guest User Name: sidkshetri@gmail.com and password sidhu2020
+
+8. please dowmload MySQL DB script and execute the script in your system 
 
 
 Mysql Database: Table Names : user , role , users_roles, feedback
